@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sdaoud9801/getdog/issues"
   },
-  "homepage": "https://github.com/sdaoud9801/getdog#readme"
+  "homepage": "https://github.com/sdaoud9801/getdog#readme",
+  "dependencies": {
+    "webpack": "^5.98.0"
+  }
 }
