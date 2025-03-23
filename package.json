@@ -1,0 +1,19 @@
+{
+  "name": "getdog",
+  "version": "1.0.0",
+  "description": "web app that serves random dog pics using place.dog api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdaoud9801/getdog.git"
+  },
+  "author": "salah daoud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdaoud9801/getdog/issues"
+  },
+  "homepage": "https://github.com/sdaoud9801/getdog#readme"
+}
